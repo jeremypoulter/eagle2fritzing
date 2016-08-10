@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Location of EAGLE executable:
-EXEC=/Applications/EAGLE-7.3.0/EAGLE.app/Contents/MacOS/EAGLE
+EXEC=C:/EAGLE-7.6.0/bin/eagle.exe
 # Default brd2svg working path (override by passing argument to this script):
-WORKPATH=~/Desktop/FritzingTest
+WORKPATH=D:/Users/Jeremy/Dev/Fritzing/OpenEnergyMonitor
 # Other paths used by brd2svg:
 # PARTPATH and ANDPATH are relative to brd2svg application.
 # BACKUPPATH is relative to 'brds' directory in WORKPATH.
@@ -11,7 +11,7 @@ PARTPATH=../subparts
 ANDPATH=./and
 BACKUPPATH=bak
 # Converted parts will be copied here for testing w/Fritzing:
-TESTPATH=~/Documents/Fritzing
+TESTPATH=D:/Users/Jeremy/Documents/Fritzing
 # Set to 0 to skip pre/post processing steps:
 PREPROCESS=1
 POSTPROCESS=0
