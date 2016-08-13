@@ -301,6 +301,7 @@
 <map package='qfn_4mm' to='16lcsp' />
 <map package='qfn_3mm' to='lfcsp16_lq' />
 <map package='qfn_3mm' to='qfn16_3mm' />
+<map package='qfn_3mm' to='qfn20_3mm_nothermal' />
 <map package='sod-123' to='sod-123fl' />
 <map package='SOT23-5' to='SOT23-5l' />
 <map package='SOT23-wide' to='sot23-r' />
@@ -348,12 +349,16 @@
 <map package='usb-minib' to='usb-minib_larger' />
 <map package='2X05_1.27mm' to='2X05_1.27MM_BOX_POSTS' />
 <map package='0402-res' to='_0402mp' />
+<map package='0207_5v' to='0207/5v' />
 <map package='0805-led-red' to='chipled_0805' />
 <map package='jstph2' to='jst-ph-2-smt-ra' />
 <map package='usb-minib' to='usb-mini_medium' />
 <map package='1210-cap' to='c1210' />
 <map package='esp-12e' to='esp-12' />
 <map package='sot32-wide' to='sot23-wide@1' />
+<map package='sot23-5' to='sot23-5@1' />
+<map package='simholder2' to='c707_10m006_512_2' />
+<map package='qfn_3mm' to='si471x' />
 
 <!-- Open Energy Monitor changes -->
 <map package='2X03' to='2x3' />
