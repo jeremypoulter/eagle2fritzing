@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export PATH=/cygdrive/c/Python27/:$PATH
+
 # Location of EAGLE executable:
 EXEC=C:/EAGLE-7.6.0/bin/eagle.exe
 # Default brd2svg working path (override by passing argument to this script):

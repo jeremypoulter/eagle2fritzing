@@ -354,4 +354,9 @@
 <map package='1210-cap' to='c1210' />
 <map package='esp-12e' to='esp-12' />
 <map package='sot32-wide' to='sot23-wide@1' />
+
+<!-- Open Energy Monitor changes -->
+<map package='2X03' to='2x3' />
+<map package='0805-led-red' to='chip-led0805' />
+<map package='dipswitch-02' to='dip_switch_smt' />
 </packages>
