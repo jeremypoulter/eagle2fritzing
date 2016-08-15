@@ -8,10 +8,10 @@ from sys import platform as _platform
 
 # Location of EAGLE executable
 #EXEC = "/Applications/EAGLE-6.6.0/EAGLE.app/Contents/MacOS/EAGLE"
-EXEC = "C:\\Program Files (x86)\\EAGLE-6.4.0\\bin\\eagle.exe"
+EXEC = "C://EAGLE-7.6.0//bin//eagle.exe"
 #EXEC = "C:\\Program Files (x86)\\EAGLE-6.6.0\\bin\\eagle.exe"
 # Default brd2svg working path (override by passing argument to this script)
-WORKPATH = "FritzingTest"
+WORKPATH = "D://Users//Jeremy//Dev//Fritzing//OpenEnergyMonitor"
 # Other paths used by brd2svg:
 # PARTPATH and ANDPATH are relative to brd2svg application.
 # BACKUPPATH is relative to 'brds' directory in WORKPATH

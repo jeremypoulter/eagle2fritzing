@@ -364,4 +364,9 @@
 <map package='2X03' to='2x3' />
 <map package='0805-led-red' to='chip-led0805' />
 <map package='dipswitch-02' to='dip_switch_smt' />
+<map package='esp-12e' to='esp8266-esp12' />
+<map package='rfm69cw' to='rfm12b' />
+<map package='sod-523' to='sod523' />
+<map package='soic8' to='so08' />
+
 </packages>
